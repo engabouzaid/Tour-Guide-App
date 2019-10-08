@@ -1,0 +1,16 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Tour Guide App</string>
+    <!-- Category name for Restaurants [CHAR LIMIT=20] -->
+    <string name="resturantsFragmentName">Restaurants</string>
+    <!-- Category name for Museums CHAR LIMIT=20] -->
+    <string name="meseumsFragmentName">Museums</string>
+    <!-- Category name for Parks [CHAR LIMIT=20] -->
+    <string name="ParksFragmentName">Parks</string>
+    <!-- Category name for Mosques [CHAR LIMIT=20] -->
+    <string name="mosquesFragmentName">Mosques</string>
+    <string name="place_image_content_description">Place Image</string>
+    <string name="list_item_name_hint">Name</string>
+    <string name="list_item_description_hint">Description</string>
+    <string name="list_item_address_hint">Address</string>
+</resources>
